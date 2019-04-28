@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    ".*rc": "json",
+    "limits": "cpp",
+    "memory": "cpp",
+    "utility": "cpp"
+  }
+}
